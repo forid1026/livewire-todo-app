@@ -53,9 +53,5 @@
             <button wire:click="cancel"
                 class="mt-3 px-4 py-2 bg-red-500 text-white font-semibold rounded hover:bg-red-600">Cancel</button>
         </div>
-<<<<<<< HEAD
-    @endif
-</div>
-=======
     </div>
->>>>>>> a4d71ebed03ac8278cdf9cbd80752fdedb438dc5
+    @endif
